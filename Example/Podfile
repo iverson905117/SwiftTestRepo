@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'SwiftTestRepo_Example' do
-  pod 'SwiftTestRepo', :path => '../'
+  pod 'SwiftTestRepo', :path => '/Users/cpkang/Desktop/SwiftTestRepo'
 
   target 'SwiftTestRepo_Tests' do
     inherit! :search_paths

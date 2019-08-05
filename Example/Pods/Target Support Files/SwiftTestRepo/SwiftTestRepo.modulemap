@@ -1,0 +1,6 @@
+framework module SwiftTestRepo {
+  umbrella header "SwiftTestRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}

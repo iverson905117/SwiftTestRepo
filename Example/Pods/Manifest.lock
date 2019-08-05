@@ -1,0 +1,16 @@
+PODS:
+  - SwiftTestRepo (0.1.0)
+
+DEPENDENCIES:
+  - SwiftTestRepo (from `/Users/cpkang/Desktop/SwiftTestRepo`)
+
+EXTERNAL SOURCES:
+  SwiftTestRepo:
+    :path: "/Users/cpkang/Desktop/SwiftTestRepo"
+
+SPEC CHECKSUMS:
+  SwiftTestRepo: 370e0ae13764a169396d83618d416d3c80153b37
+
+PODFILE CHECKSUM: de5c4f2e9d546971e57989c9983d1038cd6ac2c5
+
+COCOAPODS: 1.6.1
