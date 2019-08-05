@@ -7,9 +7,9 @@
 
 import UIKit
 
-public class MyClass_Swift: NSObject {
+@objc public class MyClass_Swift: NSObject {
     
-    public static func printHelloWorld() {
+    @objc public static func printHelloWorld() {
         
         print("Hello world!")
     }
